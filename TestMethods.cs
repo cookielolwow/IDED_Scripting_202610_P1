@@ -4,7 +4,7 @@
     {
         public static void SeparateElements(Queue<int> input, out Stack<int> included, out Stack<int> excluded)
         {
-            included = null;
+            included = nul;
             excluded = null;
         }
 
